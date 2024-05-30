@@ -76,7 +76,6 @@
 *1. Uma captura de tela completa (exibindo o endereço do seu laboratório) com um comentário anônimo contendo seu primeiro nome e RM.*
 <br><br />
        ✯ *O primeiro é apenas fazer um comentário sem estar logado em alguma conta, dizendo seu nome e rm.*
-
 <br><br />
 
 <img src="Cp-WEB/print1-exe2.png">
@@ -86,7 +85,6 @@
 *2. Uma captura de tela completa (exibindo o endereço do seu laboratório e seu payload) com prova de que você consegue realizar operações simples, tais como: somar ou multiplicar dois números ou multiplicar uma string.*
    <br><br />
        ✯ *O payload utilizado foi `user.nickname}}{{7*"vick`*
-   
 <br><br />
 
 <img src="Cp-WEB/print2-exe2.png">
@@ -96,7 +94,6 @@
 *3. em qual linguagem o sistema de template está sendo executado?*
    <br><br />
        ✯ *A documentção do tornado.template diz que: Um sistema de templates simples que compila templates para código Python. Então, é python.*
-   
 <br><br />
 
 ---
@@ -104,7 +101,6 @@
 *4. forneça evidência de que conseguiu completar o objetivo deste laboratório.*
    <br><br />
        ✯ *O payload utilizado foi `user.name}}{%25+import+os+%25}{{os.system('rm+morale.txt')}}`**
-   
 <br><br />
 
 <img src="Cp-WEB/print3-exe2.png">
