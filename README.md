@@ -3,7 +3,6 @@
 ### *Nome: Victória Oliveira Ventrilho*
 ### *RM: 94872*
 <br><br />
-<img src="Cp-WEB/print1-nomeemail.png">
 <br><br />
 ---
 <br><br />
